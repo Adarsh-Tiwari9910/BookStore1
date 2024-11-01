@@ -13,11 +13,7 @@ app.use(cors())
 app.use(express.json())
 // mongo
 try {
-    mongoose.connect(uri,{
-        
-       
-        useUnifiedTopology:true
-    });
+    mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true });
     console.log("Connected to the mongodb")
 } catch (error) {
     console.log("Error: ",error)
