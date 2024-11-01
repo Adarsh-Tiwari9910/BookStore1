@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Book One",
+        "title": "The Adventure Begins",
+        "price": 9.99,
+        "category": "Fiction",
+        "image": "https://image.freepik.com/free-photo/open-book-table_1232-1543.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Book Two",
+        "title": "Learning JSON",
+        "price": 0,
+        "category": "Programming",
+        "image": "https://image.freepik.com/free-photo/book-stack_1232-1578.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Book Three",
+        "title": "Mysteries Unraveled",
+        "price": 14.99,
+        "category": "Mystery",
+        "image": "https://image.freepik.com/free-photo/open-book-table_1232-1543.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Book Four",
+        "title": "Cooking Made Easy",
+        "price": 0,
+        "category": "Cooking",
+        "image": "https://image.freepik.com/free-photo/cooking-book-kitchen_1232-1671.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Book Five",
+        "title": "Travel the World",
+        "price": 29.99,
+        "category": "Travel",
+        "image": "https://image.freepik.com/free-photo/open-book-wooden-table_1232-1567.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Book Six",
+        "title": "The Science of Nature",
+        "price": 19.99,
+        "category": "Science",
+        "image": "https://image.freepik.com/free-photo/open-book-sunlight_1232-1625.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Book Seven",
+        "title": "History in Depth",
+        "price": 0,
+        "category": "History",
+        "image": "https://image.freepik.com/free-photo/old-book-table_1232-1583.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Book Eight",
+        "title": "Fitness and Health",
+        "price": 24.99,
+        "category": "Health",
+        "image": "https://image.freepik.com/free-photo/exercise-book-dumbbells_1232-1623.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Book Nine",
+        "title": "The Art of Painting",
+        "price": 15.99,
+        "category": "Art",
+        "image": "https://image.freepik.com/free-photo/art-book-paintbrush_1232-1654.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Book Ten",
+        "title": "Gardening Basics",
+        "price": 0,
+        "category": "Gardening",
+        "image": "https://image.freepik.com/free-photo/gardening-book-table_1232-1575.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Book Eleven",
+        "title": "Tech Innovations",
+        "price": 34.99,
+        "category": "Technology",
+        "image": "https://image.freepik.com/free-photo/open-tech-book_1232-1680.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Book Twelve",
+        "title": "Philosophy Explained",
+        "price": 12.99,
+        "category": "Philosophy",
+        "image": "https://image.freepik.com/free-photo/open-philosophy-book_1232-1645.jpg"
+    }
+]
