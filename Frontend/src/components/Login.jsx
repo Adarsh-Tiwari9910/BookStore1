@@ -26,7 +26,7 @@ const  Login = ({ onLogin }) => {
         toast.success("Login Successfully")
         localStorage.setItem("Users",JSON.stringify(res.data.user))
         setAuthUser(res.data.user);
-        navigate('/course')
+        
         window.location.reload();
       }
        
